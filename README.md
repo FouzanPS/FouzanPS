@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Fouzan</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India 🇮🇳 </h3>
 <div align="center"><img align="center" alt="guy coding" height="240" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*aniyNTcHORbvDiLGUzJSsQ.gif"/></div>
 
 <p align="left"> </p>
